@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as DevOps engineer<br>🌱 I’m currently learning Terraform<br>
+🔭 I’m currently working as DevOps engineer<br>🌱 I’m currently learning Data engineering<br>
 
 
 ## 🌐 Socials:
