@@ -1,5 +1,5 @@
 # Hi, I'm Kirill! 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&pause=1000&color=000000&random=false&width=369&height=33&lines=kirill%40cicode%3A~%24++ping+localhost" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&pause=1000&color=000000&random=false&width=369&height=33&lines=kirill%40cicode%3A~%24++git+status" alt="Typing SVG" /></a>
 
 ## 🚀 About Me
 I'm a Devops Engineer.
